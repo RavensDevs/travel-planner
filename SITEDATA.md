@@ -1,6 +1,4 @@
-# Full Website Archive: www.praneethtours.com
-
-> **Formatting note:** The client-testimonial block (23 Tripadvisor reviews + 100 Google reviews) appeared identically at the bottom of every single page in the source export. To keep this document readable, it has been de-duplicated and moved to a single **[Client Testimonials](#client-testimonials)** section at the end. No review text has been removed — every review that appeared anywhere in the source is preserved there. Decorative placeholder images (empty SVG boxes with no content) have been omitted; the number of images on each page is noted instead.
+#Travel Guide
 
 ## Table of Contents
 
